@@ -7,5 +7,5 @@ COVID-19_US_SW_Forecasting is the main file of all the code and graphics.
 
 temp.html is the final results in a presentable manner.
 
-test.csv is the given data of the states of COVID-19 cases and fatalities.
+train.csv is the given data of the states of COVID-19 cases and fatalities.
 final_combined.csv is the data of all of the other extra variables included in generating the model.
